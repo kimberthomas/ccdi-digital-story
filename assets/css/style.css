@@ -166,11 +166,11 @@ body {
   gap: 40px;
 }
 .gallery-1-sm {
-  width: 470px;
+  width: 36%;
 }
 
 .gallery-1-lg {
-  width: 785px;
+  width: 60%;
 }
 .last-sec-numbers .nb-title {
   font-size: 80px !important;
@@ -464,10 +464,10 @@ body {
     width: 100%;
   }
   .gallery-1-sm {
-    width: 336px;
+    width: 36%;
   }
   .gallery-1-lg {
-    width: 559px;
+    width: 59%;
   }
 }
 
