@@ -172,3 +172,8 @@ initAudioPlayer("myAudioPlayer", songs);
     ],
   });
 });
+$(document).ready(function () {
+  $('.switch input').click(function(){
+      $(".switch_slider").toggleClass('switch_active') 
+  })
+});
