@@ -539,10 +539,7 @@ input:checked + .slider:before {
     width: 36%;
   }
   .gallery-1-lg {
-    width: 59%;
-  }
-  .video_row > div {
-    height: 270px;
+    width: 559px;
   }
 }
 
